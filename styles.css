@@ -1,0 +1,30 @@
+.comments {
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 8px;
+    width: 400px;
+}
+
+.comment {
+    border: 1px solid rgba(240, 243, 207, 0.44);
+    border-radius: 2px;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.comment_add {
+    border: none;
+    background-color: rgba(143, 197, 197, 0.82);
+    border-radius: 8px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.new_comment {
+    padding: 12px 8px;
+}
+
+.new_comment_input {
+    border-radius: 4px;
+}
